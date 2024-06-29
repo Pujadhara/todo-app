@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CompletedTask = () => {
+const CompletedTask:React.FC = () => {
   return (
     <div>CompletedTask</div>
   )
